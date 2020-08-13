@@ -68,6 +68,7 @@ function draw(){
      
      bananaG.destroyEach();
      count = count + 5;
+     player.scale = player.scale + 0.09;
      
    }
    
